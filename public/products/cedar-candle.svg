@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e9ded0"/><stop offset="1" stop-color="#c5ad95"/></linearGradient>
+    <linearGradient id="jar" x2="1"><stop stop-color="#829083"/><stop offset=".5" stop-color="#526452"/><stop offset="1" stop-color="#3e5142"/></linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bg)"/>
+  <ellipse cx="600" cy="870" rx="225" ry="33" fill="#554437" opacity=".18"/>
+  <path d="M420 390h360l-25 410c-5 62-53 99-155 99s-150-37-155-99z" fill="url(#jar)"/>
+  <path d="M430 380h340v45H430z" fill="#d4c8b8"/>
+  <path d="M595 380c-20-47 27-69 9-107" fill="none" stroke="#f9d9a0" stroke-width="13"/>
+  <rect x="490" y="565" width="220" height="130" rx="3" fill="#eee3d2"/>
+  <text x="600" y="620" text-anchor="middle" font-family="sans-serif" font-size="28" letter-spacing="5" fill="#53604f">CEDAR</text>
+  <text x="600" y="663" text-anchor="middle" font-family="sans-serif" font-size="16" letter-spacing="3" fill="#7d786d">NO. 04</text>
+</svg>
